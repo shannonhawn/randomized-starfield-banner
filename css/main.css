@@ -52,10 +52,10 @@ body {
   width: 30px;
   background: url("../images/star.svg") no-repeat center center / contain transparent;
   transform-origin: center center;
-  animation: simulatestars 1s alternate infinite;
+  animation: growstars 1s alternate infinite;
 }
 
-@keyframes simulatestars {
+@keyframes growstars {
 
   0% {
     height: 0;
