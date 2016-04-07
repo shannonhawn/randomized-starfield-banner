@@ -59,7 +59,7 @@ body {
 
   0% {
     height: 0;
-    weight: 0;
+    width: 0;
     opacity: 0;
   }
 
