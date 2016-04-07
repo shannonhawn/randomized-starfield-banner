@@ -50,6 +50,9 @@ body {
   position: absolute;
   top: 0;
   width: 30px;
-
   background: url("../images/star.svg") no-repeat center center / contain transparent;
+  transform-origin: center center;
+  animation: growstars 1s alternate infinite;
 }
+
+@
